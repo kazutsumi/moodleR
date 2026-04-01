@@ -1,2 +1,2 @@
-# moodleR
-moodle+Rの使い方
+# reduced
+行列の行基本変形
